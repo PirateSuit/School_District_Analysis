@@ -80,6 +80,10 @@ Thomas High School still sits in second place in a list of all schools, ranked b
    
    ![images](https://github.com/PirateSuit/School_District_Analysis/blob/main/results_photos/scores_by_school_type_refactored.png)
    
+   Again, there is not notable change between the two.
+   
+   ## Summary
+   
    
    
 
