@@ -6,6 +6,6 @@
 
 ## Results
 
-![image_name](https://github.com/PirateSuit/School_District_Analysis/blob/main/results_photos/district_summary.png)
+![image_name]
 ![image_name](https://github.com/PirateSuit/School_District_Analysis/blob/main/results_photos/district_summary_refactored.png)
 
