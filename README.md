@@ -39,3 +39,13 @@ And that same list, refactored:
 ![image_name](https://github.com/PirateSuit/School_District_Analysis/blob/main/results_photos/top_schools_refactored.png)
 
 Thomas High School still sits in second place in a list of all schools, ranked by passing percentage, despite the removal of the flawed ninth grader data causing them to slip nearly one-third of a point, as mentioned above.
+
+## How does replacing the ninth-grade scores affect the following:
+
+  ###* Math and reading scores?
+    
+    It removes the ninth grade scores from Thomas High School and replaces them with NaN. All other scores from Thomas and other schools are unaffected.
+  
+  ###* Scores by school spending?
+    
+    
