@@ -14,7 +14,7 @@ Here is the district summary:
 And here is the district summary refactored:
 ![image_name](https://github.com/PirateSuit/School_District_Analysis/blob/main/results_photos/district_summary_refactored.png)
 
-We can see that the average math score drops by .1%, the percent passing math drops by .2%, the percent passing reading drops by .3%, and the overall passing drops by .1%
+We can see that the average math score drops by .1%, the percent passing math drops by .2%, the percent passing reading drops by .3%, and the overall passing drops by .1%.
 
 ### School Summary
 
@@ -25,3 +25,4 @@ Here is the school summary:
 And here is the school summary refactored:
 ![image_name](https://github.com/PirateSuit/School_District_Analysis/blob/main/results_photos/school_summary_refactored.png)
 
+In the refactor, the removal of the ninth grader's scores has caused the average math and reading scores at Thomas High School to drop by less than .1%, the percent passing math to drop by near .1%, and the percent passing reading to drop near one third a percentage point. The overall passing percentage dropped by .31%.
