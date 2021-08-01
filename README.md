@@ -42,10 +42,20 @@ Thomas High School still sits in second place in a list of all schools, ranked b
 
 ## How does replacing the ninth-grade scores affect the following:
 
-  ###* Math and reading scores?
-    
-    It removes the ninth grade scores from Thomas High School and replaces them with NaN. All other scores from Thomas and other schools are unaffected.
+  ### * Math and reading scores?
   
-  ###* Scores by school spending?
+   It removes the ninth grade scores from Thomas High School and replaces them with NaN. All other scores from Thomas and other schools are unaffected.
     
+  ### * Scores by school spending?
     
+  Here are the scores by school spending:
+   
+   ![image](https://github.com/PirateSuit/School_District_Analysis/blob/main/results_photos/scores_by_spending.png)
+  
+  And here are the refactored versions of those scores:
+  
+   ![image](https://github.com/PirateSuit/School_District_Analysis/blob/main/results_photos/scores_by_spending_refactored.png)
+   
+   
+   
+
