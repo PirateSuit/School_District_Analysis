@@ -23,5 +23,5 @@ Here is the school summary:
 ![image_name](https://github.com/PirateSuit/School_District_Analysis/blob/main/results_photos/school_summary.png)
 
 And here is the school summary refactored:
-![image_name](https://github.com/PirateSuit/School_District_Analysis/blob/main/results_photos/district_summary_refactored.png)
+![image_name](https://github.com/PirateSuit/School_District_Analysis/blob/main/results_photos/school_summary_refactored.png)
 
