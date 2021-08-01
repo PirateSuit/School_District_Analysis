@@ -84,6 +84,11 @@ Thomas High School still sits in second place in a list of all schools, ranked b
    
    ## Summary
    
+   * The removal of the Thomas High School ninth grader's data has caused a slight decrease in overall scores, which showed that the scores that we removed were above average. 
    
+   * This is displayed via the specific decreases in math scores and math and reading (as well as overall) passing percentages in the summary of the entire district. 
    
+   * We also see changes when we look solely at Thomas High School. Whereas the average drops in both reading and math are about .1%, the percentage of students passing reading, as well as the overall passing percentage drops by nearly .3%.
+
+  * In a comparison to other schools, the removal of the ninth grader's scores did not knock Thomas High School from it's position as the school with the second highest overall passing percentage though, as mentioned above, it did drop that percentage by nearly .3%.
 
