@@ -68,6 +68,18 @@ Thomas High School still sits in second place in a list of all schools, ranked b
    
    ![image](https://github.com/PirateSuit/School_District_Analysis/blob/main/results_photos/scores_by_school_size_refactored.png)
    
+   Like the scores by school spending, refactoring the data did not notably change the results.
+   
+  ### * Scores by School Type?
+  
+   Here are the scores by school type:
+   
+   ![image](https://github.com/PirateSuit/School_District_Analysis/blob/main/results_photos/scores_by_school_type.png)
+   
+   And the refactored scores:
+   
+   ![images](https://github.com/PirateSuit/School_District_Analysis/blob/main/results_photos/scores_by_school_size_refactored.png)
+   
    
    
 
