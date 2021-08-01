@@ -38,4 +38,4 @@ And that same list, refactored:
 
 ![image_name](https://github.com/PirateSuit/School_District_Analysis/blob/main/results_photos/top_schools_refactored.png)
 
-
+Thomas High School still sits in second place in a list of all schools, ranked by passing percentage, despite the removal of the flawed ninth grader data causing them to slip nearly one-third of a point, as mentioned above.
