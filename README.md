@@ -23,6 +23,19 @@ Here is the school summary:
 ![image_name](https://github.com/PirateSuit/School_District_Analysis/blob/main/results_photos/school_summary.png)
 
 And here is the school summary refactored:
+
 ![image_name](https://github.com/PirateSuit/School_District_Analysis/blob/main/results_photos/school_summary_refactored.png)
 
 In the refactor, the removal of the ninth grader's scores has caused the average math and reading scores at Thomas High School to drop by less than .1%, the percent passing math to drop by near .1%, and the percent passing reading to drop near one third a percentage point. The overall passing percentage dropped by .31%.
+
+### School Performance Relative to Other Schools.
+
+Here is a list of the top schools:
+
+![image_name](https://github.com/PirateSuit/School_District_Analysis/blob/main/results_photos/top_schools.png)
+
+And that same list, refactored:
+
+![image_name](https://github.com/PirateSuit/School_District_Analysis/blob/main/results_photos/top_schools_refactored.png)
+
+
